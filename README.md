@@ -6,3 +6,4 @@
     <li>php artisan db:seed</li>
     <li>npm i && npm run dev</li>
 </ul>
+<p align:'center'> Login:manager@mail.ru <br>Password:12345678</p>
